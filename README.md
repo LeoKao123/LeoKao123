@@ -4,7 +4,7 @@
 - 👯 Looking forward to working on challenging industry projects, preferably in full stack or infrastructure
 - 📫 How to reach me: LeoK@Berkeley.edu
 
-Leveraging a robust background in software engineering, I specialize in crafting bespoke applications, creating state-of-the-art websites, and ensuring your software is always up-to-date. Dive into my portfolio to witness my expertise in action!
+With a strong background in software engineering, I specialize in developing personalized applications and state-of-the-art websites while ensuring your software is always up-to-date. Check out my portfolio to see my work!
 
 
 <!---
